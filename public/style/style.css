@@ -1,0 +1,31 @@
+.navbar {
+	background-color: #63c9ff;
+}
+
+.table > tbody > tr > * {
+	vertical-align: middle;
+}
+
+.sampul {
+	width: 100px;
+}
+
+/* .container-home {
+	align-content: center;
+	justify-content: center;
+} */
+.row-ctn2 {
+	margin-top: 10%;
+}
+
+.coverMain {
+	width: 100%;
+}
+
+.coverCtn {
+	width: 100%;
+}
+footer {
+	padding-bottom: 2rem;
+	background-color: #63c9ff;
+}
